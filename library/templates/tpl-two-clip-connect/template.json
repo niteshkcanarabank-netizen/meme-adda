@@ -1,1 +1,32 @@
-{"description":"Clip A sets up an expectation; clip B pays it off with an OWNED character. Caption bridges the two. (Conditional test per ChatGPT ruling 23 Oct 2026 — unlicensed TV/movie payoff clips are rejected.)","name":"Two-clip connect-the-dots","performance_note":"","provenance":"original","spec":{"aspect":"9:16","duration_s":[12,35],"resolution":"1080x1920"},"structure":[{"max_seconds":6,"role":"setup","slot":"clip_a"},{"max_seconds":8,"role":"payoff","slot":"clip_b"},{"role":"bridge text, Hinglish, premise in frame 1","slot":"caption"}],"template_id":"tpl-two-clip-connect","usage_count":0}
+{
+  "description": "Clip A sets up an expectation; clip B pays it off with an OWNED character. Caption bridges the two. (Conditional test per ChatGPT ruling 23 Oct 2026 \u2014 unlicensed TV/movie payoff clips are rejected.)",
+  "name": "Two-clip connect-the-dots",
+  "performance_note": "",
+  "provenance": "original",
+  "spec": {
+    "aspect": "9:16",
+    "duration_s": [
+      12,
+      35
+    ],
+    "resolution": "1080x1920"
+  },
+  "structure": [
+    {
+      "max_seconds": 6,
+      "role": "setup",
+      "slot": "clip_a"
+    },
+    {
+      "max_seconds": 8,
+      "role": "payoff",
+      "slot": "clip_b"
+    },
+    {
+      "role": "bridge text, Hinglish, premise in frame 1",
+      "slot": "caption"
+    }
+  ],
+  "template_id": "tpl-two-clip-connect",
+  "usage_count": 1
+}

@@ -1,0 +1,11 @@
+1. PICK: A — Evergreen, instantly relatable, and ideal for proving the format without leaning on today’s news.
+
+2. On-screen text lines, timed:
+- **0:00–0:02 | Frame 1 premise:** “Salary aayi… aur gayab?”
+- **0:02–0:05 | Clip A setup:** “EMI. Bills. Auto-pay.”
+- **0:05–0:08 | Clip B payoff:** “Balance: bas yaadein.”
+- **0:08–0:11 | Clip B payoff:** “Month-end speedrun complete.”
+- **0:11–0:14 | End card:** “MEME ADDA — roz ka adda, roz ka meme.”
+
+3. Post caption: Salary ka entry grand, exit express. #MemeAdda #SalaryDay #MonthEnd #RelatableIndia Aapki salary sabse pehle kahan jaati hai?
+CONSULT_EXIT=0

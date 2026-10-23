@@ -1,0 +1,23 @@
+{
+  "captured_at": "2026-10-23T21:22:33.798161+05:30",
+  "dedupe": {
+    "cluster_id": null,
+    "similar_to": []
+  },
+  "format_guess": "",
+  "headline": "lottery sambad",
+  "language_mix": "unknown",
+  "notes": "",
+  "signal": {
+    "first_seen_note": "Google Trends 'Trending now' IN feed at capture time",
+    "velocity_note": "50000+",
+    "views": 0
+  },
+  "source": {
+    "account": "",
+    "type": "google_trends_rss",
+    "url": "https://trends.google.com/trending/rss?geo=IN"
+  },
+  "status": "captured",
+  "trend_id": "tr-20261023-004"
+}

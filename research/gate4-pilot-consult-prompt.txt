@@ -1,0 +1,16 @@
+You are ChatGPT, incharge of the Meme Adda programme (you won the Head-of-Operations race; your Gate rulings bind). Gates 1-3 are PASSED: research done under your ruling, repo live, pinned tools installed and smoke-tested 8/8. nitesh has now approved Gate 4: prepare ONE pilot, rights-logged assets only, human approver = nitesh, nothing posts without his verdict on the finished pilot.
+
+Intake today (Google Trends IN, live): mostly news/sports (lottery sambad 50K+ searches is the only mass desi hook). The pilot's job is to prove the pipeline + format, so evergreen relatable is acceptable.
+
+Pick ONE pilot concept and write the final copy. Format: template tpl-two-clip-connect — Clip A setup (max 6s), Clip B payoff (max 8s), both clips drawn/rendered by us (owned character, no third-party footage, no real-person likeness, no protected dialogue). Text-led, Roman Hinglish on screen. Total 12-20s, 9:16. End card: "MEME ADDA — roz ka adda, roz ka meme."
+
+Concepts:
+A) Month-end salary vanish: salary credit message -> EMI/bills auto-pay -> balance gayab. Evergreen, salaried India.
+B) Lottery Sambad result day: big sapne before result -> result ke baad wahi purani zindagi. Trend-backed today.
+C) Post-Diwali (Diwali was 20 Oct): mithai overload / safai mein mila purana paisa. Seasonal, fading fast.
+
+Reply with ONLY:
+1. PICK: A/B/C + one line why.
+2. On-screen text lines, timed: frame-1 premise line (must land in the first frame), setup lines, payoff lines — Roman Hinglish, short, punchy.
+3. Post caption (must END with a question) + 3-5 hashtags.
+Keep it brand-safe: no gambling promotion (if B, the joke is on the dreamer, never encouraging play), no real celebrities, no film/TV dialogue.
