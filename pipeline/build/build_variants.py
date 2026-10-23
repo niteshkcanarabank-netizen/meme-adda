@@ -5,7 +5,9 @@ nitesh's fix instruction on job-20261023-001 (23 Oct 2026, ~21:35 IST):
 add a movie/TV reference with credit, try all three, he decides.
 Each variant = the pilot's owned setup (clip A) -> a credited reference
 still as the reaction beat -> owned deadpan closer -> end card.
-Credit is burned into the reference frames AND carried in the post caption.
+Credit placement (founder instruction 23 Oct 2026 ~23:35 IST): NOT inside
+the video — the credit goes in the post description (each job's
+post_caption carries it as the closing line).
 The reference stills are logged as transformative_fair_use_assessed with a
 written assessment (library/clips/clip-20261023-004..006) — credited, NOT
 licensed; the Content ID claim risk is recorded, not hidden.
@@ -92,16 +94,9 @@ def ref_scene(t, still, credit):
     img.paste(crop, (x0, y0))
     d = ImageDraw.Draw(img, "RGBA")
     d.rectangle([x0, y0, x0 + iw, y0 + ih], outline=(255, 255, 255), width=6)
-    # credit bar burned in at the foot of the still (auto-fit: shrink to fit)
-    d.rectangle([x0, y0 + ih - 64, x0 + iw, y0 + ih], fill=(0, 0, 0, 200))
-    sz = 34
-    while sz > 20:
-        f = font(sz)
-        box = d.textbbox((0, 0), credit, font=f)
-        if box[2] - box[0] <= iw - 32:
-            break
-        sz -= 2
-    d.text(((W - (box[2] - box[0])) / 2 - box[0], y0 + ih - 50), credit, font=f, fill=(255, 255, 255))
+    # NO credit inside the video — founder instruction 23 Oct 2026 ~23:35 IST:
+    # "Don't give credit in reels or shorts. Instead give the credit in
+    # description." The credit lives in each job's post_caption (description).
     if t >= 7.2:
         text_c(d, y0 + ih + 70, "Balance: bas yaadein.", 76, fill=(240, 240, 240))
     return img

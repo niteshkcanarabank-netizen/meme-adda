@@ -1,1 +1,24 @@
-{"approver":"nitesh","clips":["clip-20261023-001","clip-20261023-005"],"created_at":"2026-10-23T22:32:00+05:30","job_id":"job-20261023-003","origin":"variant of job-20261023-001 — nitesh fix instruction 23 Oct 2026 ~21:35 IST: add a credited movie/TV reference; 'try everyone then we will decide' ~22:26 IST","output":{"caption_burned_in":true,"duration_s":17.0,"file":"out/final.mp4","height":1920,"width":1080},"post_caption":"Reference credit: Taarak Mehta Ka Ooltah Chashmah © Neela Film Productions / Sony SAB — meme parody, no affiliation. Salary ka entry grand, exit express. #MemeAdda #SalaryDay #MonthEnd #RelatableIndia Aapki salary sabse pehle kahan jaati hai?","status":"built_pending_decision","template_id":"tpl-two-clip-connect","trend_id":"tr-20261023-011","variant_reference":"Taarak Mehta Ka Ooltah Chashmah — Jethalal shocked still (clip-20261023-005)","verdict":null}
+{
+  "approver": "nitesh",
+  "clips": [
+    "clip-20261023-001",
+    "clip-20261023-005"
+  ],
+  "created_at": "2026-10-23T22:32:00+05:30",
+  "job_id": "job-20261023-003",
+  "origin": "variant of job-20261023-001 — nitesh fix instruction 23 Oct 2026 ~21:35 IST: add a credited movie/TV reference; 'try everyone then we will decide' ~22:26 IST",
+  "output": {
+    "caption_burned_in": false,
+    "duration_s": 17.0,
+    "file": "out/final.mp4",
+    "height": 1920,
+    "width": 1080
+  },
+  "post_caption": "Salary ka entry grand, exit express. #MemeAdda #SalaryDay #MonthEnd #RelatableIndia Aapki salary sabse pehle kahan jaati hai?\nCredit: Taarak Mehta Ka Ooltah Chashmah © Neela Film Productions / Sony SAB — meme parody, no affiliation.",
+  "status": "built_pending_decision",
+  "template_id": "tpl-two-clip-connect",
+  "trend_id": "tr-20261023-011",
+  "variant_reference": "Taarak Mehta Ka Ooltah Chashmah — Jethalal shocked still (clip-20261023-005)",
+  "verdict": null,
+  "credit_placement": "description only (founder instruction 23 Oct 2026)"
+}

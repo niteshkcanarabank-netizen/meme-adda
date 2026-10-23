@@ -26,3 +26,12 @@ Notes:
 
 Honest limits: stills are modest resolution (700–1366 px wide) upscaled into
 the frame; flat code-drawn animation and synth audio, same as job-001.
+
+## Amendment — 23 Oct 2026 ~23:40 IST (founder instructions)
+
+1. Bhaiya redrawn (character v2): swept fringe hair, arched brows, open
+   smile — v1's bowl-cut/stick-brow face replaced in every scene.
+2. Credit placement changed: NO credit inside the video (the earlier
+   "credit burned in" row above is superseded). The credit now appears
+   only as the closing line of the post description (job.json post_caption).
+All four videos (job-001 + variants) rebuilt with both changes; hashes re-logged.

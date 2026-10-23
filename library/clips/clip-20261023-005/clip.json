@@ -1,1 +1,19 @@
-{"clip_id":"clip-20261023-005","duration_s":5.5,"file":"still.jpg (local only — image binaries are git-ignored; this record is the audit trail)","phash":"","rights":{"assessed_at":"2026-10-23T22:30:00+05:30","assessed_by":"muse (build lane), on nitesh's founder decision 23 Oct 2026 ~21:35 IST","assessment_note":"FOUNDER DECISION (nitesh, 23 Oct 2026): add a credited movie/TV reference to the Gate-4 pilot and try all three candidates; this overrules the incharge's owned-payoff-only position for the pilot test. Use: a single still frame, no audio, no dialogue, as a reaction beat inside an original sketch — commentary/parody meme grammar. Credit burned into the video frames and repeated in the post caption. This is NOT a licence: Content ID may still claim/monetise if posted; status recorded honestly as assessed (not cleared_licensed). Pilot is an internal decision test — nothing posts before nitesh's verdict and before Meme Adda accounts exist.","content_id_risk":"likely_claim","status":"transformative_fair_use_assessed"},"source":{"origin":"tv_still","origin_detail":"Taarak Mehta Ka Ooltah Chashmah — Jethalal (Dilip Joshi) shocked close-up, official SonyLIV episode thumbnail (ep2926). Credit line used in video + caption: 'Taarak Mehta Ka Ooltah Chashmah © Neela Film Productions / Sony SAB'","source_url":"https://images.slivcdn.com/landscape_thumb/tmkoc_landscape_thumbnail_ep2926.jpg?w=1366&q=high"}}
+{
+  "clip_id": "clip-20261023-005",
+  "duration_s": 5.5,
+  "file": "still.jpg (local only — image binaries are git-ignored; this record is the audit trail)",
+  "phash": "",
+  "rights": {
+    "assessed_at": "2026-10-23T22:30:00+05:30",
+    "assessed_by": "muse (build lane), on nitesh's founder decision 23 Oct 2026 ~21:35 IST",
+    "assessment_note": "FOUNDER DECISION (nitesh, 23 Oct 2026): add a credited movie/TV reference to the Gate-4 pilot and try all three candidates; this overrules the incharge's owned-payoff-only position for the pilot test. Use: a single still frame, no audio, no dialogue, as a reaction beat inside an original sketch — commentary/parody meme grammar. Credit placement per founder instruction 23 Oct 2026 ~23:35 IST: NOT inside the video — the credit goes in the post description only (the job's post_caption closing line). This is NOT a licence: Content ID may still claim/monetise if posted; status recorded honestly as assessed (not cleared_licensed). Pilot is an internal decision test — nothing posts before nitesh's verdict and before Meme Adda accounts exist.",
+    "content_id_risk": "likely_claim",
+    "status": "transformative_fair_use_assessed",
+    "credit_placement": "post description only — never inside reels/shorts (founder instruction 23 Oct 2026)"
+  },
+  "source": {
+    "origin": "tv_still",
+    "origin_detail": "Taarak Mehta Ka Ooltah Chashmah — Jethalal (Dilip Joshi) shocked close-up, official SonyLIV episode thumbnail (ep2926). Credit line used in video + caption: 'Taarak Mehta Ka Ooltah Chashmah © Neela Film Productions / Sony SAB'",
+    "source_url": "https://images.slivcdn.com/landscape_thumb/tmkoc_landscape_thumbnail_ep2926.jpg?w=1366&q=high"
+  }
+}

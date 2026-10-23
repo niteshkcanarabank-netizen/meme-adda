@@ -1,39 +1,39 @@
 [
   {
     "file": "productions/job-20261023-001/out/final.mp4",
-    "hashed_at": "2026-10-23T21:31:06.459189+05:30",
+    "hashed_at": "2026-10-23T23:39:19.646778+05:30",
     "near_duplicates_in_index": [],
-    "phash_frame1": "b868c73638c91bc7",
-    "videohash": "0b0001111101011010111110111010100011100101000111111010101000000000"
+    "phash_frame1": "b8c8c736783b96c4",
+    "videohash": "0b0001111101011010111110111010100011110101000111111010101000000000"
   },
   {
     "file": "productions/job-20261023-002/out/final.mp4",
-    "hashed_at": "2026-10-23T22:32:28.591477+05:30",
+    "hashed_at": "2026-10-23T23:39:31.711834+05:30",
     "near_duplicates_in_index": [
       "productions/job-20261023-001/out/final.mp4"
     ],
-    "phash_frame1": "b868c73638c91bc7",
-    "videohash": "0b0001111101001010101010001010101010101111111000011010100000000000"
+    "phash_frame1": "b8c8c736783b96c4",
+    "videohash": "0b0001111101001000101010101010101010101111111000011010100000000000"
   },
   {
     "file": "productions/job-20261023-003/out/final.mp4",
-    "hashed_at": "2026-10-23T22:32:41.754065+05:30",
+    "hashed_at": "2026-10-23T23:39:43.307358+05:30",
     "near_duplicates_in_index": [
       "productions/job-20261023-001/out/final.mp4",
       "productions/job-20261023-002/out/final.mp4"
     ],
-    "phash_frame1": "b868c73638c91bc7",
-    "videohash": "0b0001111101001010101010101010101010101111111000011000000000000000"
+    "phash_frame1": "b8c8c736783b96c4",
+    "videohash": "0b0001111101001010101010101010101010101111111000010000000000000000"
   },
   {
     "file": "productions/job-20261023-004/out/final.mp4",
-    "hashed_at": "2026-10-23T22:32:53.417431+05:30",
+    "hashed_at": "2026-10-23T23:39:55.131788+05:30",
     "near_duplicates_in_index": [
       "productions/job-20261023-001/out/final.mp4",
       "productions/job-20261023-002/out/final.mp4",
       "productions/job-20261023-003/out/final.mp4"
     ],
-    "phash_frame1": "b868c73638c91bc7",
+    "phash_frame1": "b8c8c736783b96c4",
     "videohash": "0b0001111101001010101010001010101010101111111000011010100000000000"
   }
 ]

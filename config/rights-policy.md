@@ -31,10 +31,13 @@ can't ship.
 ## Founder decision — credited references in the Gate-4 pilot (23 Oct 2026)
 
 nitesh (founder) directed that the Gate-4 pilot test a credited movie/TV
-reference (still frame, credit burned into the video + repeated in the caption),
-trying three candidates before he decides. This overrules the incharge's
-owned-payoff-only position **for the pilot test only**. The default format rule
-above stands unless he rules otherwise after seeing the variants. Every such
-reference is logged `transformative_fair_use_assessed` with a written assessment
-and `content_id_risk: likely_claim` — credit is attribution, not a licence, and
-the record says so.
+reference (still frame), trying three candidates before he decides. This
+overrules the incharge's owned-payoff-only position **for the pilot test only**.
+The default format rule above stands unless he rules otherwise after seeing
+the variants. Every such reference is logged `transformative_fair_use_assessed`
+with a written assessment and `content_id_risk: likely_claim` — credit is
+attribution, not a licence, and the record says so.
+
+**Credit placement (founder instruction, 23 Oct 2026 ~23:35 IST): never inside
+reels or shorts — the credit goes in the post description only** (the closing
+line of the job's `post_caption`).

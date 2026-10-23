@@ -1,1 +1,53 @@
-{"approver":{"name":"nitesh","role":"human approver (Gate 4)","verdict":"fix — add a credited movie/TV reference (photo or video); try all three candidates, then decide","verdict_at":"2026-10-23T22:26:00+05:30","fix_jobs":["job-20261023-002","job-20261023-003","job-20261023-004"]},"clips":["clip-20261023-001","clip-20261023-002","clip-20261023-003"],"copy_source":"ChatGPT incharge ruling — research/gate4-pilot-consult-ruling.txt (pick A, lines, caption)","created_at":"2026-10-23T21:25:00+05:30","dedupe":{"checked_at":"2026-10-23T21:31:06+05:30","index":"data/hashes/2026-10-23.json","near_duplicates":[],"phash_frame1":"b868c73638c91bc7","videohash":"0b0001111101011010111110111010100011100101000111111010101000000000"},"gate":"Gate 4 pilot","job_id":"job-20261023-001","on_screen_text":["0:00 Salary aayi… aur gayab? (premise, frame 1)","0:02 EMI. Bills. Auto-pay.","0:05 Balance: bas yaadein.","0:08 Month-end speedrun complete.","0:11 MEME ADDA — roz ka adda, roz ka meme."],"output":"productions/job-20261023-001/out/final.mp4","post_caption":"Salary ka entry grand, exit express. #MemeAdda #SalaryDay #MonthEnd #RelatableIndia Aapki salary sabse pehle kahan jaati hai?","qa_output":{"checked_at":"2026-10-23T21:34:00+05:30","detail":"productions/job-20261023-001/qa-report.md","passed":true},"rights_precheck":{"checked_at":"2026-10-23T21:25:00+05:30","detail":"All 3 clips cleared_original, content_id_risk none. No unassessed/blocked asset in this job. Pre-check ran BEFORE build, per docs/WORKFLOW.md stage 4.","passed":true},"status":"built_pending_approver","template_id":"tpl-two-clip-connect","trend_id":"tr-20261023-011"}
+{
+  "approver": {
+    "name": "nitesh",
+    "role": "human approver (Gate 4)",
+    "verdict": "fix — add a credited movie/TV reference (photo or video); try all three candidates, then decide",
+    "verdict_at": "2026-10-23T22:26:00+05:30",
+    "fix_jobs": [
+      "job-20261023-002",
+      "job-20261023-003",
+      "job-20261023-004"
+    ]
+  },
+  "clips": [
+    "clip-20261023-001",
+    "clip-20261023-002",
+    "clip-20261023-003"
+  ],
+  "copy_source": "ChatGPT incharge ruling — research/gate4-pilot-consult-ruling.txt (pick A, lines, caption)",
+  "created_at": "2026-10-23T21:25:00+05:30",
+  "dedupe": {
+    "checked_at": "2026-10-23T21:31:06+05:30",
+    "index": "data/hashes/2026-10-23.json",
+    "near_duplicates": [],
+    "phash_frame1": "b8c8c736783b96c4",
+    "videohash": "0b0001111101011010111110111010100011110101000111111010101000000000",
+    "rebuilt_at": "2026-10-23T23:45:00+05:30",
+    "rebuild_note": "Character v2 face (founder fix) — same content, new Bhaiya drawing; hashes re-logged in data/hashes/2026-10-23.json."
+  },
+  "gate": "Gate 4 pilot",
+  "job_id": "job-20261023-001",
+  "on_screen_text": [
+    "0:00 Salary aayi… aur gayab? (premise, frame 1)",
+    "0:02 EMI. Bills. Auto-pay.",
+    "0:05 Balance: bas yaadein.",
+    "0:08 Month-end speedrun complete.",
+    "0:11 MEME ADDA — roz ka adda, roz ka meme."
+  ],
+  "output": "productions/job-20261023-001/out/final.mp4",
+  "post_caption": "Salary ka entry grand, exit express. #MemeAdda #SalaryDay #MonthEnd #RelatableIndia Aapki salary sabse pehle kahan jaati hai?",
+  "qa_output": {
+    "checked_at": "2026-10-23T21:34:00+05:30",
+    "detail": "productions/job-20261023-001/qa-report.md",
+    "passed": true
+  },
+  "rights_precheck": {
+    "checked_at": "2026-10-23T21:25:00+05:30",
+    "detail": "All 3 clips cleared_original, content_id_risk none. No unassessed/blocked asset in this job. Pre-check ran BEFORE build, per docs/WORKFLOW.md stage 4.",
+    "passed": true
+  },
+  "status": "built_pending_approver",
+  "template_id": "tpl-two-clip-connect",
+  "trend_id": "tr-20261023-011"
+}
