@@ -1,0 +1,19 @@
+# Dedupe + QA cut-offs. Change thresholds HERE, not in code.
+# Placeholders where marked — calibrate on real pairs once production starts.
+
+dedupe:
+  phash_hamming_max: 8        # PLACEHOLDER — calibrate on real near-duplicate pairs
+  apply_at: [intake, pre_posting]
+
+qa_output:
+  min_resolution: [1080, 1920]
+  duration_s: [12, 35]        # from research: 15–35s comedy best-supported; floor kept for flexibility
+  captions_required: true
+  premise_frame_1_required: true
+  caption_ends_with_question: true
+  hashtags: {min: 3, max: 5}
+
+verify:
+  pending_flag_hours: 2       # verification pending > 2h is a failure to chase, not a success to assume
+
+metrics_pull: [24h, 72h, 7d]

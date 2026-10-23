@@ -1,0 +1,41 @@
+# Clip binaries and render outputs (kept out of git history)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.aac
+*.flac
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.tiff
+*.psd
+productions/*/out/
+productions/*/*.mp4
+
+# Local hash caches / derived indexes
+data/hashes/*.pkl
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+
+# Secrets and local config
+.env
+*.pem
+*.key
+config/*local*
+
+# OS
+.DS_Store
+Thumbs.db

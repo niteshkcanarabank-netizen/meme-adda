@@ -1,0 +1,32 @@
+# Trend-watch sources (the desi news watch). Research relay: X India first,
+# then Reddit template subs, then IG pages — with the event calendar as the spike layer.
+# See research/ecosystem/ and research/trends-tooling for the factual basis.
+
+sources:
+  - id: x-india
+    type: x
+    what: "X India — trends surface here first in the relay (research finding)"
+    poll_cadence: twice_daily
+
+  - id: reddit-templates
+    type: reddit
+    what: "Reddit template subs — second leg of the relay; template-first surfacing"
+    poll_cadence: daily
+
+  - id: ig-hinglish-pages
+    type: instagram_reels
+    what: "Top Indian/Hinglish IG meme pages — cadence + hit-shape study targets"
+    poll_cadence: daily
+
+  - id: yt-shorts-hinglish
+    type: youtube_shorts
+    what: "Hinglish Shorts sketch channels — recurring-character/series patterns"
+    poll_cadence: daily
+
+  - id: event-calendar
+    type: manual
+    what: "Desi news watch: IPL, Bigg Boss, film releases, festivals — event-driven spikes"
+    poll_cadence: weekly_review
+
+# Watchers are manual at v1. Automated polling against this list is a later phase,
+# only after the research validates what each platform's rules permit.

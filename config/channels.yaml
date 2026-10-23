@@ -1,0 +1,19 @@
+# Brand accounts — IDs/handles only. NO secrets in this file.
+
+youtube_shorts:
+  brand: Meme Adda
+  handle: TBD        # decided on creation; keep consistent with IG/FB
+  channel_id: TBD
+
+instagram_reels:
+  brand: Meme Adda
+  handle: TBD
+  account_id: TBD
+
+facebook:
+  brand: Meme Adda
+  handle: TBD
+  page_id: TBD
+
+# Note: accounts are created by nitesh (standing rule: he owns account creation).
+# Fill handles here only after he confirms each account exists.
