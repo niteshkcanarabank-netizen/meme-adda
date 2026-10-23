@@ -3,10 +3,11 @@
 Indian/Hinglish memes for YouTube Shorts + Instagram Reels.
 Trend watch → dedupe → build → QA (rights first) → post → verify.
 
-> **Status (23 Oct 2026): Gate 2 — APPROVED by nitesh and pushed to GitHub.**
-> Repo: https://github.com/niteshkcanarabank-netizen/meme-adda — built from the
-> repo-design leg of the foundation research (`research/`). Nothing here installs
-> anything; the pinned install list is Gate 3 (`docs/INSTALL-LIST.md`, proposed).
+> **Status (23 Oct 2026): Gate 3 — PASSED.** The pinned install list
+> (`docs/INSTALL-LIST.md`) was approved by nitesh and installed into `.venv/`;
+> smoke tests pass 8/8 (results log in the install list). Gate 4 — the pilot
+> with rights-logged assets + human approver — is next and still needs his
+> approval. Production remains paused until then.
 
 ## Pipeline at a glance
 
@@ -53,6 +54,6 @@ Foundation research (23 Oct 2026): `research/ecosystem/`, `research/formats/`, `
 ## Gates (programme sequence)
 
 - Gate 1 — research ✅ complete 23 Oct 2026
-- Gate 2 — this repo (draft; needs nitesh's approval + GitHub creation) ⬅ we are here
-- Gate 3 — pinned install list (only what the research validates)
-- Gate 4 — pilot with rights-logged assets + human approver
+- Gate 2 — this repo ✅ approved by nitesh, live on GitHub 23 Oct 2026
+- Gate 3 — pinned install list ✅ installed + smoke-tested 23 Oct 2026
+- Gate 4 — pilot with rights-logged assets + human approver ⬅ we are here (needs nitesh's approval)

@@ -39,3 +39,8 @@ config/*local*
 # OS
 .DS_Store
 Thumbs.db
+
+# Gate-3 install artefacts (local only)
+.pip-tmp/
+install-*.log
+smoke*.log
