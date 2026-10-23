@@ -27,3 +27,14 @@ Per-clip rules (enforced at the QA gate, stage 4, before any build):
 
 Rights QA sits BEFORE build deliberately: no edit time is spent on an asset that
 can't ship.
+
+## Founder decision — credited references in the Gate-4 pilot (23 Oct 2026)
+
+nitesh (founder) directed that the Gate-4 pilot test a credited movie/TV
+reference (still frame, credit burned into the video + repeated in the caption),
+trying three candidates before he decides. This overrules the incharge's
+owned-payoff-only position **for the pilot test only**. The default format rule
+above stands unless he rules otherwise after seeing the variants. Every such
+reference is logged `transformative_fair_use_assessed` with a written assessment
+and `content_id_risk: likely_claim` — credit is attribution, not a licence, and
+the record says so.
